@@ -44,6 +44,14 @@ h1 {
     
 }
 
+p1 {
+    color: #1c74a5;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
 ul.main_menu {
     list-style-type: none;
     margin: 0;
